@@ -1,0 +1,9 @@
+npm i -S ng-simple-slideshow   
+npm i angular-image-slider     
+npm install --save hammerjs
+npm install @angular/material @angular/cdk --save
+npm i @ng-bootstrap/ng-bootstrap
+npm install firebase angularfire2 --save
+npm install --save firebase
+npm install @angular/forms --save
+npm i angular-bootstrap-md
